@@ -38,7 +38,8 @@ html {
 .terms {
   height: 400px;
   padding: 70px;
-  overflow-y: auto;
+      overflow: hidden;
+    overflow-y: auto;
 }
 
 .button-container {
